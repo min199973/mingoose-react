@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mingoose-react/static/js/main.9cc5e431.js",
+    "main.js": "/mingoose-react/static/js/main.d65bb52a.js",
     "index.html": "/mingoose-react/index.html",
-    "main.9cc5e431.js.map": "/mingoose-react/static/js/main.9cc5e431.js.map"
+    "main.d65bb52a.js.map": "/mingoose-react/static/js/main.d65bb52a.js.map"
   },
   "entrypoints": [
-    "static/js/main.9cc5e431.js"
+    "static/js/main.d65bb52a.js"
   ]
 }
